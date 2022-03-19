@@ -76,11 +76,13 @@ image_write(meme, "my_meme.png")
 **1. What was the motivation?**  
 In my first year of university, I got into a lot of trouble because of the Academic Integrity things. That is the reason of why I made this meme called "Homework Rules". The meme could be separated into three parts:  
 * *The first row*   
-For the first row, I started with a sign which has a big "WARNING" on it to show that searching the answers on Chegg is not recommended. The red bold 
+For the first row, I started with a sign which has a big "WARNING" on it to show that searching the answers on Chegg is not recommended. The red bold sentence is uesd to warning the people who see this meme: do not do this!
 * *The second row*  
-For the second row, I used a red big bold "NO". I want to show that if you have troubles when you doing your homework, copying others's work is absolutely not okay!
+For the second row, I used a red big bold "NO". I want to show that if you have troubles when you doing your homework, copying others's work is absolutely not okay! As same as the first row of the meme, the red bold sentence is uesd to warning the people who see this meme: do not do this!
 * *The third row*
-用chegg可能你理解了再写还是可行的 但是完全抄袭他人是完全不被认可的 所以一个是警告 一个是红色大写的no
+The third row is about the things that we could do when we meet troubles during doing our homework. That is, asking our teacher!
+
+用chegg可能你理解了再写还是可行的 但是完全抄袭他人是完全不被认可的 所以一个是警告 一个是红色大写的no  
 **2. How is my meme new?**
 * *图片本来是什么样子的（网站链接和直接的图片*
 * *经过我的改变之后是什么样子的*
