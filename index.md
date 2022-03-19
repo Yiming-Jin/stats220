@@ -1,5 +1,5 @@
 # My meme - "Homework Rules"
-The first part of the first assignment in course STATS220 is to create a meme by ourselves. Therefore, I created this page. Not only for the assignment, but also that I want to record my first `R` project.
+Welcome to my website! The first part of the first assignment in course STATS220 is to create a meme by ourselves. Therefore, I created this page. Not only for the assignment, but also that I want to record my first `R` project.
 
 ## What does my meme look like?
 [Homework Rules:](https://github.com/Yiming-Jin/stats220/blob/main/my_meme.png?raw=true)
